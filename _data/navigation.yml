@@ -21,8 +21,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Github"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Theme Source"
+      url: https://github.com/Juyeon-Ji
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -36,7 +36,7 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
+    - title: "Servicios"s
       section: servicios
     - title: "Portafolio"
       section: portafolio
@@ -47,7 +47,7 @@ es: &DEFAULT_ES
     - title: "Contáctenos"
       section: contacto
     - title: "Fuente de la plantilla"
-      url: https://github.com/Juyeon-Ji
+      url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
