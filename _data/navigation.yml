@@ -21,7 +21,7 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
+    - title: "Github"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
@@ -47,7 +47,7 @@ es: &DEFAULT_ES
     - title: "Contáctenos"
       section: contacto
     - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://github.com/Juyeon-Ji
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
