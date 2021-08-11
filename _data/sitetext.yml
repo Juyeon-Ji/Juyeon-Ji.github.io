@@ -52,22 +52,22 @@ en: &DEFAULT_EN
       - title: "DeProMeet"
         year: "2021 - "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/DeProMeet.png
         alt:
       - title: "Douzone ICT"
         year: "2019 - 2021"
         desc: "e-commerce, security(digital forensics)"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/Douzone.png
         alt:
       - title: "Chung-Ang university"
         year: "2017 - 2019"
         desc: "MS. Security sience"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/chung-ang.png
         alt: image alt text
       - title: "Sungkyul  university"
         year: "2013-2017"
         desc: "BS."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/sungkyul.png
         alt:
         # you can enforce the alignment
         align: right
