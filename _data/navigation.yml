@@ -17,10 +17,6 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Experience"
       section: timeline
-#    - title: "Team"
-#      section: team
-    - title: "Contact"
-      section: contact
     - title: "Github"
       url: https://github.com/Juyeon-Ji
 en-US:
