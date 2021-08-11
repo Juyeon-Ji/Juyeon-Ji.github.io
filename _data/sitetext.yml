@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be brave!<br>Take risk!<br>Nothing can<br>substitute experience."
+    end: "Worth<br>of<br>experience"
 
   about:
     title: "About Us"
