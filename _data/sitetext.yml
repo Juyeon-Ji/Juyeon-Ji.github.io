@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "somting"
+    title: "something"
     text: "Lorem ipsum"
     section: services
     list:
@@ -69,7 +69,7 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
+    title: "About"
     text: "our story"
     section: about
 
@@ -124,9 +124,9 @@ es: &DEFAULT_ES
     buttonlink: "#servicios"
 
   services:
-    title: "Servicios"
+    title: "Service"
     text: "Lorem ipsum"
-    section: servicios
+    section: Service
     list:
       - title: "Comercio Electrónico"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
