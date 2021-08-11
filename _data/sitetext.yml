@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Life <Br> is a diverse collection <br> of experiences"
+    end: "Life is a<Br>diverse collection<br>of experiences"
 
   about:
     title: "About Us"
