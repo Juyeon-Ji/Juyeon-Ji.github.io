@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Hello world!
+    text: I'm Juyeon <br> Nice 2 meet u
     button: Tell Me More
     buttonlink: "#services"
 
