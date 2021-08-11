@@ -11,16 +11,18 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Concept"
+    - title: "Services"
       section: services
     - title: "Portfolio"
       section: portfolio
     - title: "About"
       section: timeline
+    - title: "Team"
+      section: team
     - title: "Contact"
       section: contact
-    - title: "  Github"
-      url: https://github.com/Juyeon-Ji
+    - title: "Theme Source"
+      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -30,23 +32,23 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Korean
+# Spanish
 # -------
-ko: &DEFAULT_KO
+es: &DEFAULT_ES
   nav:
-    - title: "컨셉"
-      section: services
-    - title: "포트폴리오"
-      section: portfolio
-    - title: "내정보"
-      section: about
-    - title: "연락처"
-      section: contact
-    - title: "Github"
-      url: https://github.com/Juyeon-Ji
-
-
+    - title: "Servicios"
+      section: servicios
+    - title: "Portafolio"
+      section: portafolio
+    - title: "Cronología"
+      section: cronologia
+    - title: "Equipo"
+      section: equipo
+    - title: "Contáctenos"
+      section: contacto
+    - title: "Fuente de la plantilla"
+      url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
-  <<: *DEFAULT_KO
+  <<: *DEFAULT_ES
 es-CO:
-  <<: *DEFAULT_KO
+  <<: *DEFAULT_ES
