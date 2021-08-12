@@ -22,7 +22,8 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "[ENFP](https://www.16personalities.com/enfp-personality)"
-        desc: "blah blah"
+        desc: "Curious  Perceptive  Enthusiastic<br>
+                    Excellent Communicators"
         icon: far fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "SKILLS"
         desc: "React.js  Recoil  Typescript"
