@@ -68,7 +68,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Sungkyul  university"
         year: "2013-2017"
-        desc: "BS in Computer and Multimedia Engineering"
+        desc: "BS in Computer and<br>Multimedia Engineering"
         image: assets/img/timeline/sungkyul.png
         alt:
         # you can enforce the alignment
