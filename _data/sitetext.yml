@@ -25,10 +25,10 @@ en: &DEFAULT_EN
         desc: "blah blah"
         icon: far fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "SKILLS"
-        desc: "blah blah"
+        desc: "<ul><li>React.js</li>><li>Recoil</li>><li>Typescript</li></ul>"
         icon: fas fa-laptop-code
       - title: "INTEREST"
-        desc: "blah blah"
+        desc: "Wine  & food"
         icon: fas fa-wine-glass-alt
 
   portfolio:
