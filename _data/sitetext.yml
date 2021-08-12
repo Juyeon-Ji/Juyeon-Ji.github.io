@@ -21,11 +21,11 @@ en: &DEFAULT_EN
     text: "Juyeon Ji"
     section: services
     list:
-      - title: "ENFP"
+      - title: "[ENFP](https://www.16personalities.com/enfp-personality)"
         desc: "blah blah"
         icon: far fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "SKILLS"
-        desc: "React.js   <br>Recoil    <br>Typescript"
+        desc: "React.js  Recoil  Typescript"
         icon: fas fa-laptop-code
       - title: "INTEREST"
         desc: "Wine  & food"
