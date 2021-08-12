@@ -51,7 +51,7 @@ en: &DEFAULT_EN
         alt:
       - title: "DeProMeet"
         year: "2021 - "
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Front-end, Operater"
         image: assets/img/timeline/deProMeet.png
         alt:
       - title: "Douzone ICT"
