@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         icon: far fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "SKILLS"
         desc: "React.js & Recoil & Typescript<br>
-                      HTML, Python"
+                      HTML5 & Python"
         icon: fas fa-laptop-code
       - title: "INTEREST"
         desc: "Wine & food"
