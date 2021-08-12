@@ -26,11 +26,11 @@ en: &DEFAULT_EN
                     Excellent Communicators"
         icon: far fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "SKILLS"
-        desc: "React.js & Recoil & Typescript<br>
+        desc: "React.js & Recoil & TypeScript<br>
                       HTML5 & Python"
         icon: fas fa-laptop-code
       - title: "INTEREST"
-        desc: "Wine & food"
+        desc: "Wine & Food"
         icon: fas fa-wine-glass-alt
 
   portfolio:
@@ -53,17 +53,17 @@ en: &DEFAULT_EN
         alt:
       - title: "DeProMeet"
         year: "2021 - "
-        desc: "Front-end, Operater"
+        desc: "Front-end programmer, Organizer"
         image: assets/img/timeline/deProMeet.png
         alt:
       - title: "Douzone ICT"
         year: "2019 - 2021"
-        desc: "e-commerce, security(digital forensics)"
+        desc: "Software engineer in e-commerce & security(digital forensics)"
         image: assets/img/timeline/douzone.png
         alt:
       - title: "Chung-Ang university"
         year: "2017 - 2019"
-        desc: "MS in Security sience"
+        desc: "MS in Security science"
         image: assets/img/timeline/chungAng.png
         alt: image alt text
       - title: "Sungkyul  university"
