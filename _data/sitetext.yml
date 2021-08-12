@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "blah blah"
         icon: far fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "SKILLS"
-        desc: "<ul><li>React.js</li>><li>Recoil</li>><li>Typescript</li></ul>"
+        desc: "- React.js<br>- Recoil<br>- Typescript.js"
         icon: fas fa-laptop-code
       - title: "INTEREST"
         desc: "Wine  & food"
