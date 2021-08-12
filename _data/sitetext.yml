@@ -26,7 +26,8 @@ en: &DEFAULT_EN
                     Excellent Communicators"
         icon: far fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "SKILLS"
-        desc: "React.js & Recoil & Typescript"
+        desc: "React.js & Recoil & Typescript<br>
+                      HTML, Python"
         icon: fas fa-laptop-code
       - title: "INTEREST"
         desc: "Wine & food"
