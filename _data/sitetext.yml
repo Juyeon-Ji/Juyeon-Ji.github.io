@@ -48,12 +48,12 @@ en: &DEFAULT_EN
     events:
       - title: "Netmable"
         year: "2021 - "
-        desc: "Front-end"
+        desc: "Front-end engineer"
         image: assets/img/timeline/netmable.png
         alt:
       - title: "DeProMeet"
         year: "2021 - "
-        desc: "Front-end programmer, Organizer"
+        desc: "Front-end engineer, Organizer"
         image: assets/img/timeline/deProMeet.png
         alt:
       - title: "Douzone ICT"
