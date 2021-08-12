@@ -61,12 +61,12 @@ en: &DEFAULT_EN
         alt:
       - title: "Chung-Ang university"
         year: "2017 - 2019"
-        desc: "MS. Security sience"
+        desc: "MS in Security sience"
         image: assets/img/timeline/chungAng.png
         alt: image alt text
       - title: "Sungkyul  university"
         year: "2013-2017"
-        desc: "BS."
+        desc: "BS in Computer and Multimedia Engineering"
         image: assets/img/timeline/sungkyul.png
         alt:
         # you can enforce the alignment
