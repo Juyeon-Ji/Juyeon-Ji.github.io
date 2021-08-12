@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "ENFP"
         desc: "blah blah"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fal fa-lightbulb-on #find more at https://fontawesome.com/icons
       - title: "SKILLS"
         desc: "blah blah"
-        icon: fas fa-laptop
+        icon: fal fa-laptop-code
       - title: "INTEREST"
         desc: "blah blah"
-        icon: fab fa-markdown
+        icon: fas fa-wine-glass-alt
 
   portfolio:
     title: "Portfolio"
