@@ -22,14 +22,14 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "[ENFP](https://www.16personalities.com/enfp-personality)"
-        desc: "Curious  Perceptive  Enthusiastic<br>
+        desc: "Curious & Perceptive & Enthusiastic<br>
                     Excellent Communicators"
         icon: far fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "SKILLS"
-        desc: "React.js  Recoil  Typescript"
+        desc: "React.js & Recoil & Typescript"
         icon: fas fa-laptop-code
       - title: "INTEREST"
-        desc: "Wine  & food"
+        desc: "Wine & food"
         icon: fas fa-wine-glass-alt
 
   portfolio:
