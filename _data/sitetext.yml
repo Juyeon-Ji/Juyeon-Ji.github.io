@@ -52,17 +52,17 @@ en: &DEFAULT_EN
       - title: "DeProMeet"
         year: "2021 - "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/DeProMeet.png
+        image: assets/img/timeline/deProMeet.png
         alt:
       - title: "Douzone ICT"
         year: "2019 - 2021"
         desc: "e-commerce, security(digital forensics)"
-        image: assets/img/timeline/Douzone.png
+        image: assets/img/timeline/douzone.png
         alt:
       - title: "Chung-Ang university"
         year: "2017 - 2019"
         desc: "MS. Security sience"
-        image: assets/img/timeline/chung-ang.png
+        image: assets/img/timeline/chungAng.png
         alt: image alt text
       - title: "Sungkyul  university"
         year: "2013-2017"
