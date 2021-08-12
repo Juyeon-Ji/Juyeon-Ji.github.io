@@ -44,10 +44,10 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Next ?"
+      - title: "Netmable"
         year: "2021 - "
-        desc: "New company"
-        image: assets/img/timeline/1.jpg
+        desc: "Front-end"
+        image: assets/img/timeline/netmable.png
         alt:
       - title: "DeProMeet"
         year: "2021 - "
