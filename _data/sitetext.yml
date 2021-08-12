@@ -58,7 +58,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Douzone ICT"
         year: "2019 - 2021"
-        desc: "Software engineer in e-commerce & security(digital forensics)"
+        desc: "Software engineer in<br>e-commerce & security(digital forensics)"
         image: assets/img/timeline/douzone.png
         alt:
       - title: "Chung-Ang university"
