@@ -23,17 +23,17 @@ en: &DEFAULT_EN
     list:
       - title: "ENFP"
         desc: "blah blah"
-        icon: fal fa-lightbulb-on #find more at https://fontawesome.com/icons
+        icon: far fa-lightbulb #find more at https://fontawesome.com/icons
       - title: "SKILLS"
         desc: "blah blah"
-        icon: fal fa-laptop-code
+        icon: fas fa-laptop-code
       - title: "INTEREST"
         desc: "blah blah"
         icon: fas fa-wine-glass-alt
 
   portfolio:
     title: "Portfolio"
-    text: "Visualize somthing"
+    text: "Visualize something"
     section: portfolio
     closebutton: "Close Project"
 
